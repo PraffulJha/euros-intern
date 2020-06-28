@@ -1,0 +1,141 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+    line-height: 1.5;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    text-decoration: none;
+}
+.header{
+    padding: 20px;
+    text-align: left;
+}
+.header hr{
+    margin-top: 10px;
+    max-width: 1100px;
+    border: 2px solid #000000;
+}
+.container{
+    max-width: 1100px;
+    margin: auto;
+}
+#Aboutdata img{
+    margin-right: 100px;
+}
+.Profile-detail{
+    margin-top: 80px;
+    list-style-type: none;
+    padding: 10px;
+    font-size: 20px;
+
+}
+.fa{
+    padding: -70px;
+    font-size: 16px;
+    text-decoration: none;
+    margin-top: 8px;
+}
+.About-me{
+    padding: 10px;
+    text-align: left;
+}
+.About-me h4{
+    padding: 50px 10px 10px 10px;
+    font-size: 20px;
+}
+.skillsh1{
+    padding: 20px;
+    text-align: left;
+}
+.skillsh1 hr{
+    margin-top: 10px;
+    max-width: 1100px;
+    border: 2px solid #000000;   
+}
+.btn{
+    width: 150px;	
+	outline: none !important;
+	border: 2px solid #000;
+}
+
+.checked{
+    color: black;
+}
+
+.fa-star-o{
+    color: grey;
+}
+.Prohead{
+    padding: 20px;
+    text-align: left;
+}
+.Prohead hr{
+    margin-top: 10px;
+    max-width: 1100px;
+    border: 2px solid #000000;   
+}
+.Project-box img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.Project-box h4{
+    width: 200px;
+    text-align: left;
+    font-weight: 600;
+}
+
+.exp{
+    padding: 20px;
+    text-align: left;
+}
+.exp hr{
+    margin-top: 10px;
+    max-width: 1100px;
+    border: 2px solid #000000;   
+}
+.exp-des ul  li{
+    list-style-type: none;
+}
+
+.edu{
+    padding: 20px;
+    text-align: left;
+}
+.edu hr{
+    margin-top: 10px;
+    max-width: 1100px;
+    border: 2px solid #000000;   
+}
+.edu-con ul li{
+    list-style-type: none;    
+}
+.achihead{
+    padding: 20px;
+    text-align: left;
+}
+.achihead hr{
+    margin-top: 10px;
+    max-width: 1100px;
+    border: 2px solid #000000;   
+}
+.achi ul{
+    margin: 15px;
+}
+.achi ul li{
+    font-size: 20px;
+    font-weight: 400;
+    padding: 5px;
+    margin: 5px;
+}
